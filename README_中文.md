@@ -5,9 +5,20 @@ Awesome [Tmux](https://tmux.github.io/)  中文内容
 
 搜集各种有用的 tmux 的内容：教程、插件、配置等等。
 
-[TOC]
+## 目录
 
-## 教程
+- [教程](#tutorials)
+- [备忘卡片](#cheatsheets)
+- [配置](#configuration)
+- [工具和对话管理](#tools)
+- [主题](#themes)
+- [状态栏](#status-bar)
+- [插件](#plugins)
+- [书籍](#books)
+- [其他](#miscellaneous)
+
+
+## <a name="tutorials"> 教程
 
 - [连接 SSH 时自动启动 tmux （en）](http://marklodato.github.io/2013/10/31/autostart-tmux-on-ssh.html)
 - [Tmux 问题教程（en）](https://thoughtbot.com/blog/a-tmux-crash-course)
@@ -16,11 +27,11 @@ Awesome [Tmux](https://tmux.github.io/)  中文内容
 - [Tmux 加 Vim （en）](https://www.bugsnag.com/blog/tmux-and-vim)
 - [Tmux 初学教程（en）](https://protechnotes.com/comprehensive-tmux-tutorial-for-beginners-with-a-cheat-sheet/)
 
-## <a name="cheatsheets"></a>备忘卡片
+## <a name="cheatsheets"></a> 备忘卡片
 
 - [tmux-卡片.markdown](https://gist.github.com/MohamedAlaa/2961058)
 
-## Configuration
+## 配置
 
 - [Oh My Tmux!](https://github.com/gpakosz/.tmux) Powerline-like theme, vim bindings, SSH aware, improved maximize pane, ...
 - [Example tmux config](https://github.com/tony/tmux-config) :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar
@@ -29,7 +40,7 @@ Awesome [Tmux](https://tmux.github.io/)  中文内容
 - [tmux-extra](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
 - [tmux yank to system clipboard](https://www.grailbox.com/2020/08/use-system-clipboard-for-vi-copy-mode-in-tmux-in-macos-and-linux/) A way to get the System Clipboard to work with tmux yank on a Mac via `pbcopy` and linux via `xclip`
 
-## <a name="tools"></a>Tools and session management
+## <a name="tools"></a> 工具和对话管理
 
 - [automux](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, usefull for tmux based automation
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
@@ -53,7 +64,7 @@ Awesome [Tmux](https://tmux.github.io/)  中文内容
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 
 
-## Themes
+## 主题
 
 - [tmux-base16-statusline](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell](https://github.com/chriskempson/base16-shell)
 - [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
@@ -65,7 +76,7 @@ Awesome [Tmux](https://tmux.github.io/)  中文内容
 - [tmux-gruvbox](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 - [tmux-nova](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 
-## Status Bar
+## 状态栏
 
 - [aws-tmux](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 - [gitmux](https://github.com/arl/gitmux) Show Git status in tmux status bar
@@ -101,7 +112,7 @@ Awesome [Tmux](https://tmux.github.io/)  中文内容
 - [tmux-weather-info-yr](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
 - [tmux-world-clock](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
 
-## Plugins
+## 插件
 
 - [tmux2html](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 - [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
@@ -144,17 +155,17 @@ Awesome [Tmux](https://tmux.github.io/)  中文内容
   - [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
   - [tmux-yank](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 
-### Development and testing
+### 开发和测试
 
 - [tmux-example-plugin](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
 - [tmux-test](https://github.com/tmux-plugins/tmux-test) A small framework for isolated testing of tmux plugins.
 
-## Books
+## 书籍
 
 - [tmux 2: Productive Mouse-Free Development](https://pragprog.com/book/bhtmux2/tmux-2/)
 - [The Tao of tmux](https://leanpub.com/the-tao-of-tmux)
 
-## Miscellaneous
+## 其他
 
 - [sixel-tmux](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
 - [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
