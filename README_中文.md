@@ -20,12 +20,13 @@ Awesome [Tmux](https://tmux.github.io/)  中文内容
 
 ## <a name="tutorials"> 教程
 
-- [连接 SSH 时自动启动 tmux （en）](http://marklodato.github.io/2013/10/31/autostart-tmux-on-ssh.html)
-- [Tmux 问题教程（en）](https://thoughtbot.com/blog/a-tmux-crash-course)
-- [Tmux 入门（en）](https://danielmiessler.com/study/tmux/)
-- [自动交互使用 tmux （en）](https://blog.dbi-services.com/using-tmux-for-semi-interactive-demos/)
-- [Tmux 加 Vim （en）](https://www.bugsnag.com/blog/tmux-and-vim)
-- [Tmux 初学教程（en）](https://protechnotes.com/comprehensive-tmux-tutorial-for-beginners-with-a-cheat-sheet/)
+- [连接 SSH 时自动启动 tmux （英）](http://marklodato.github.io/2013/10/31/autostart-tmux-on-ssh.html)
+- [Tmux 问题教程（英）](https://thoughtbot.com/blog/a-tmux-crash-course)
+- [Tmux 入门（英）](https://danielmiessler.com/study/tmux/)
+- [自动交互使用 tmux （英）](https://blog.dbi-services.com/using-tmux-for-semi-interactive-demos/)
+- [Tmux 加 Vim （英）](https://www.bugsnag.com/blog/tmux-and-vim)
+- [Tmux 初学教程（英）](https://protechnotes.com/comprehensive-tmux-tutorial-for-beginners-with-a-cheat-sheet/)
+- [阮一峰 Tmux 使用教程（中）](http://www.ruanyifeng.com/blog/2019/10/tmux.html)
 
 ## <a name="cheatsheets"></a> 备忘卡片
 
